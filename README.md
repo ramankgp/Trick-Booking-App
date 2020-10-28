@@ -2,4 +2,4 @@
 
 
 
-This project contains an app for window booking!!!
+This project contains an app for Trip booking!!!
